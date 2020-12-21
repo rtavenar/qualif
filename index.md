@@ -38,7 +38,7 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
     - Dr. Thomas Corpetti (CNRS, garant)
   - Justificatifs :
     - [Attestation de réussite](assets/scans/attestation_reussite_hdr.pdf)
-    - Rapports de manuscrit [[F. d'Alché](assets/scans/rapport_dalche.pdf)] [[P. Papapetrou](assets/scans/rapport_papapetrou.pdf)] [[N. Thome](assets/scans/rapport_thome.pdf)]
+    - Rapports de manuscrit [[F. d'Alché](assets/scans/rapport_hdr_dalche.pdf)] [[P. Papapetrou](assets/scans/rapport_hdr_papapetrou.pdf)] [[N. Thome](assets/scans/rapport_hdr_thome.pdf)]
     - [Rapport de soutenance](assets/scans/rapport_soutenance_hdr.pdf)
 - Doctorat, Université de Rennes 1 - Inria / IRISA (Rennes, France, 2011)
   - Titre : Indexation de séries temporelles
