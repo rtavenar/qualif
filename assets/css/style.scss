@@ -2,3 +2,8 @@
 ---
 
 @import "jekyll-theme-primer";
+
+*:not(h1)>a:hover {
+    font-weight: normal;
+    text-decoration: underline;
+}
