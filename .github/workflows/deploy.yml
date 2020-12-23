@@ -15,7 +15,15 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
 
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v1
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
     # Build Jekyll
     - uses: helaili/jekyll-action@2.0.1
       env:
-        JEKYLL_PAT: ${{ secrets.GITHUB_TOKEN }}
+        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
