@@ -5,8 +5,6 @@ exclude:
 sass:
   style: :compressed
 
-theme: jekyll-theme-primer
-
 title: Romain Tavenard
 theme: jekyll-theme-primer
 defaults:
