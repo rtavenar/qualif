@@ -86,6 +86,18 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 
 ### Cours
 
+#### Synthèse du nombre d'heures
+
+| Statut | Établissement d'exercice | Nombre total d'heures |
+|--------|--------------------------|-----------------------|
+| MCF | Université de Rennes 2 | xxx |
+| Vacataire | EDHEC, Lille | xxx |
+| Moniteur | ENS Cachan, Antenne de Bretagne -- Université de Rennes 1 | xxx |
+| Vacataire | Université de Rennes 1 | xxx |
+
+
+#### Liste exhaustive des cours
+
 | Année d'exercice | Établissement d'exercice | Public & niveau | Nom de la matière | Détails | Volume horaire total (heTD) | Nature | Responsabilités | Supports d'enseignement |
 |--------|------------------|--------------------------|-----------------|-------------------|--------|--------------------------------------------------|--------|-----------------|-------------------------|
 | 2020-2021 | Université de Rennes 2 | L2 MIASHS | Structures de données avancées en Python | Programmation en Python : collections, récupération et manipulation de résultats issus de requêtes REST | 42 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Polycopié (Jupyter Book)](https://rtavenar.github.io/poly_python/content/intro.html)] [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=8373)] |
@@ -93,19 +105,20 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 | 2020-2021 | Université de Rennes 2 | M2 MAS | Apprentissage 2 | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences) | 16 | CM, TP | Création du module, des supports, des évaluations | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=11352)] |
 |--------|------------------|--------------------------|-----------------|-------------------|--------------------------------------------------|--------|-----------------|-------------------------|
 
+
+**TODO : finir la liste exhaustive**
+
 Notes :
 
 * Moodle : les espaces-cours sont accessibles avec une clé d'auto-inscription indiquée dans la description du cours sur moodle (pour les cours du second semestre, il se peut qu'une partie non négligeable des éléments du cours soit cachée au moment de l'évaluation de ce dossier)
-* L'ensemble des cours dispensés à l'Université de Rennes 2 l'ont été en tant que maître de conférences, les cours dispensés à l'EDHEC (école de commerce) et à l'ENSAI (école d'ingénieur en statistique) l'ont été en tant que vacataire
-* Enseignements en anglais : les modules _deep learning_ (EDHEC) et _time series_ (ENSAI) ont été dispensés en langue anglaise
+* L'ensemble des cours dispensés à l'Université de Rennes 2 l'ont été en tant que maître de conférences, les cours dispensés à l'EDHEC (école de commerce) l'ont été en tant que vacataire ; de plus, durant ma thèse, j'ai été vacataire à l'Université de Rennes 1 et moniteur à l'ENS de Cachan (antenne de Bretagne)
+* Enseignements en anglais : le module _deep learning_ (EDHEC) a été dispensé en langue anglaise
 * Distanciel : en raison des contraintes sanitaires, les modules _deep learning_ (EDHEC), _apprentissage 2_ (UR2), Structures de données avancées en Python (UR2), dont j'ai la responsabilité, ont été dispensés à distance dans les conditions suivantes :
   * _Deep learning_ (EDHEC, printemps 2020) : cours 100% distanciel (mix synchrone-asynchrone), cours en vidéo, travaux pratiques + questions-réponses liées au cours encadrés via Slack
   * Bases de données avancées (UR2, printemps 2020) : cours 100% distanciel synchrone, cours en visio (type zoom), travaux pratiques sur Google Colab (notebook hébergé en ligne)
   * _Apprentissage 2_ (UR2, automne 2020) : cours 100% distanciel synchrone, cours en visio (type zoom), travaux pratiques sur Deepnote (notebook hébergé en ligne)
   * Structures de données avancées en Python (UR2, automne 2020) : cours en présentiel puis 100% distanciel (mix synchrone-asynchrone), cours en vidéo + sessions de questions-réponses sur zoom (classe inversée) + qcm d'auto-évaluation, travaux pratiques sur zoom (+ corrigés détaillés pour les étudiants moins bien pourvus en connexion internet)
 * **TODO: ne pas oublier formation continue**
-
-**TODO : liste exhaustive + tableau récapitulatif**
 
 ## Recherche
 
