@@ -278,4 +278,4 @@ Notes :
 
 {% assign scan_files = site.static_files | where: "scan", true %}
 {% for p in scan_files %}
-* <a href="{{ p.path }}">{{ p.name }}</a>{% endfor %}
+* <a href="{{ p.path | slice: 1,p.path.size }}">{{ p.name }}</a>{% endfor %}
