@@ -1,11 +1,20 @@
 ---
 layout: default
+katex: True
 ---
 
 Dossier de qualification aux fonctions de professeur des universités, section 27
 
 * TOC
 {:toc}
+
+# Liens
+
+- e-mail: <romain.tavenard@univ-rennes2.fr>
+- [Site web](https://rtavenar.github.io)
+- [Profil Google Scholar](https://scholar.google.com/citations?user=wn1XFWMAAAAJ)
+- [Profil GitHub](https://github.com/rtavenar)
+- [Profil Twitter](https://twitter.com/rtavenar)
 
 # Curriculum vitae
 
@@ -14,13 +23,14 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 - Maître de Conférences, Université de Rennes 2 (Rennes, France), depuis 2013
   - UMR Laboratoire Littoral, Environnement, Télédétection, Géomatique (LETG)
   - Département Informatique et Statistiques (MIASHS)
+  - Membre élu au Conseil de l'UFR Sciences Sociales depuis 2018
   - Membre associé de l'équipe Obelix de l'UMR IRISA
-  - Justificatifs : **TODO**
+  - Justificatifs : **TODO (UR2 + membre associé)**
 - Chercheur post-doctoral, Idiap Research Institute (Martigny, Suisse, 2011 - 2013)
   - Équipe _Perception_, dirigée par Dr. Jean-Marc Odobez
   - Bourse du _Swiss National Science Foundation (SNSF)_
 - Doctorant, Université de Rennes 1 (Rennes, France, 2007 - 2011)
-  - Équipe TexMex (UMR IRISA), dirigée par Dr. Patrick Gros
+  - Équipe TexMex (UMR IRISA, équipe-projet Inria), dirigée par Dr. Patrick Gros
   - Contrat doctoral (allocation ministérielle, contingent des ENS)
 - Stagiaire de recherche, Centrum voor Wiskunde en Informatica -- CWI (Amsterdam, Pays Bas, 2006 - 2007)
   - _Intelligent and Autonomous Systems Department_, dirigé par Prof. Éric Pauwels
@@ -28,7 +38,7 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 
 ## Formation
 
-- Habilitation à Diriger des Recherches, Université de Rennes 2 (Rennes, France, 2020)
+- Habilitation à Diriger des Recherches, Université de Rennes 2 - UMR LETG (Rennes, France, 2020)
   - Titre : Apprentissage statistique et séries temporelles
   - Jury :
     - Prof. Élisa Fromont (Université de Rennes 1, présidente)
@@ -41,14 +51,14 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
     - [Attestation de réussite](assets/scans/attestation_reussite_hdr.pdf)
     - Rapports de manuscrit [[F. d'Alché](assets/scans/rapport_hdr_dalche.pdf)] [[P. Papapetrou](assets/scans/rapport_hdr_papapetrou.pdf)] [[N. Thome](assets/scans/rapport_hdr_thome.pdf)]
     - [Rapport de soutenance](assets/scans/rapport_soutenance_hdr.pdf)
-- Doctorat, Université de Rennes 1 - Inria / IRISA (Rennes, France, 2011)
+- Doctorat, Université de Rennes 1 - Inria / UMR IRISA (Rennes, France, 2011)
   - Titre : Indexation de séries temporelles
-  - Directeur de thèse: Dr. Laurent Amsaleg (CNRS)
   - Jury :
     - Prof. Marie-Odile Cordier (Université de Rennes, présidente)
     - Prof. Philippe Joly (Université Paul Sabatier, Toulouse, rapporteur)
     - Prof. Hervé Glotin (Université Sud Toulon Var, rapporteur)
     - Dr. Stéphane Marchand Maillet (Université de Genève, Suisse, examinateur)
+    - Dr. Laurent Amsaleg (CNRS, directeur de thèse)
     - Dr. Patrick Gros (Inria, co-directeur de thèse)
 - Élève normalien, École Normale Supérieure de Cachan -- Antenne de Bretagne (Rennes, France, 2006-2008)
   - Département Informatique et Télécommunications
@@ -76,6 +86,25 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 
 ### Cours
 
+| Année d'exercice | Établissement d'exercice | Public & niveau | Nom de la matière | Détails | Volume horaire total (heTD) | Nature | Responsabilités | Supports d'enseignement |
+|--------|------------------|--------------------------|-----------------|-------------------|--------|--------------------------------------------------|--------|-----------------|-------------------------|
+| 2020-2021 | Université de Rennes 2 | L2 MIASHS | Structures de données avancées en Python | Programmation en Python : collections, récupération et manipulation de résultats issus de requêtes REST | 42 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Polycopié (Jupyter Book)](https://rtavenar.github.io/poly_python/content/intro.html)] [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=8373)] |
+| 2020-2021 | Université de Rennes 2 | M1 MAS | Bases de données avancées | Interrogation de bases NoSQL : `mongodb` | 24 | CM, TP | Création du module, des supports, des évaluations | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=9001)] |
+| 2020-2021 | Université de Rennes 2 | M2 MAS | Apprentissage 2 | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences) | 16 | CM, TP | Création du module, des supports, des évaluations | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=11352)] |
+|--------|------------------|--------------------------|-----------------|-------------------|--------------------------------------------------|--------|-----------------|-------------------------|
+
+Notes :
+
+* Moodle : les espaces-cours sont accessibles avec une clé d'auto-inscription indiquée dans la description du cours sur moodle (pour les cours du second semestre, il se peut qu'une partie non négligeable des éléments du cours soit cachée au moment de l'évaluation de ce dossier)
+* L'ensemble des cours dispensés à l'Université de Rennes 2 l'ont été en tant que maître de conférences, les cours dispensés à l'EDHEC (école de commerce) et à l'ENSAI (école d'ingénieur en statistique) l'ont été en tant que vacataire
+* Enseignements en anglais : les modules _deep learning_ (EDHEC) et _time series_ (ENSAI) ont été dispensés en langue anglaise
+* Distanciel : en raison des contraintes sanitaires, les modules _deep learning_ (EDHEC), _apprentissage 2_ (UR2), Structures de données avancées en Python (UR2), dont j'ai la responsabilité, ont été dispensés à distance dans les conditions suivantes :
+  * _Deep learning_ (EDHEC, printemps 2020) : cours 100% distanciel (mix synchrone-asynchrone), cours en vidéo, travaux pratiques + questions-réponses liées au cours encadrés via Slack
+  * Bases de données avancées (UR2, printemps 2020) : cours 100% distanciel synchrone, cours en visio (type zoom), travaux pratiques sur Google Colab (notebook hébergé en ligne)
+  * _Apprentissage 2_ (UR2, automne 2020) : cours 100% distanciel synchrone, cours en visio (type zoom), travaux pratiques sur Deepnote (notebook hébergé en ligne)
+  * Structures de données avancées en Python (UR2, automne 2020) : cours en présentiel puis 100% distanciel (mix synchrone-asynchrone), cours en vidéo + sessions de questions-réponses sur zoom (classe inversée) + qcm d'auto-évaluation, travaux pratiques sur zoom (+ corrigés détaillés pour les étudiants moins bien pourvus en connexion internet)
+* **TODO: ne pas oublier formation continue**
+
 **TODO : liste exhaustive + tableau récapitulatif**
 
 ## Recherche
@@ -102,9 +131,9 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 | Niveau | Nombre de co-encadrements |
 |--------|---------------|---|---|
 | Post-doctorat | 1 |
-| Thèse soutenue | 2 |
-| Thèse en cours | 2 |
-| Master 2  | 4 |
+| Thèses soutenue | 2 |
+| Thèses en cours | 2 |
+| Stages de Master 2  | 4 |
 
 - Post-doctorant
   - Pierre Gloaguen (2017 - 2019)
@@ -116,16 +145,16 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
     - co-encadré avec Prof. Chloé Friguet &amp; Prof. Laetitia Chapel
     - [[justificatif](http://www.theses.fr/s236551)]
   - Yichang Wang (depuis 2018)
-    - Analyse explicable de séries temporelles~\cite{wang20} (_shapelets_ ; classification de séries temporelles ; explicabilité)
+    - Analyse explicable de séries temporelles {% cite wang20 %} (_shapelets_ ; classification de séries temporelles ; explicabilité)
     - co-encadré avec Prof. Élisa Fromont, Prof. Rémi Emonet &amp; Prof. Simon Malinowski
     - [[justificatif](assets/scans/wang_csi.pdf)]
 - Doctorants (thèses soutenues)
   - Titouan Vayer (2017 - 2020)
-    - Transport optimal et données structurées~\cite{vayer19a,vayer19b,vayer:hal-02174316} (adaptation de domaine ; graphes ; séries temporelles)
+    - Transport optimal et données structurées {% cite vayer19a vayer19b vayer:hal-02174316 %} (adaptation de domaine ; graphes ; séries temporelles)
     - co-encadré avec Prof. Laetitia Chapel &amp; Prof. Nicolas Courty
     - [[justificatif](http://www.theses.fr/s189108)]
   - Adeline Bailly (2015 - 2018)
-    - Classification de séries temporelles avec application à la télédétection~\cite{bailly:halshs-01515283,zhang:hal-01470554,bailly:hal-01252726,tavenard:halshs-01561461,bailly:halshs-01343211,bailly:halshs-01184900}
+    - Classification de séries temporelles avec application à la télédétection {% cite bailly:halshs-01515283 zhang:hal-01470554 bailly:hal-01252726 tavenard:halshs-01561461 bailly:halshs-01343211 bailly:halshs-01184900 %}
     - co-encadrée avec Prof. Laetitia Chapel
     - [[justificatif](http://www.theses.fr/2018REN20021)]
 - Stagiaires de Master 2
@@ -133,10 +162,10 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
     - Génération de séries temporelles à l'aide de modèles en temps continu (_Neural ODEs_ ; modèles génératifs ; _Recurrent neural Networks (RNNs)_)
     - co-encadré avec Prof. Laetitia Chapel, Prof. Chloé Friguet &amp; Prof. Pierre Gloaguen
   - Arthur Le Guennec (2016)
-    - Augmentation de jeux de données pour la classification de séries temporelles à l'aide de réseaux convolutionnels~\cite{leguennec:halshs-01357973} (_Convolutional Neural Networks (CNNs)_ ; augmentation de jeux de données)
+    - Augmentation de jeux de données pour la classification de séries temporelles à l'aide de réseaux convolutionnels {% cite leguennec:halshs-01357973 %} (_Convolutional Neural Networks (CNNs)_ ; augmentation de jeux de données)
     - co-encadré avec Prof. Simon Malinowski
   - Arnaud Lods (Master 2)
-    - Apprentissage non supervisé de représentations pour les séries temporelles~\cite{lods:hal-01565207} (_shapelets_ ; _CNNs_ ; réseaux siamois ; _Dynamic Time Warping (DTW)_)
+    - Apprentissage non supervisé de représentations pour les séries temporelles {% cite lods:hal-01565207 %} (_shapelets_ ; _CNNs_ ; réseaux siamois ; _Dynamic Time Warping (DTW)_)
     - co-encadré avec Prof. Simon Malinowski
   - Anh N'Guyen (2014)
     - Classification de séries temporelles
@@ -163,9 +192,13 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
   - Collaborateur
   - **TODO justificatif**
 
-## Publications et logiciel
+### Thématiques de recherche
 
-### Logiciels
+**TODO : texte synthétique présentant mes thématiques de recherche (avec du gras pour mettre en avant les mots-clés)**
+
+### Publications
+
+#### Logiciels
 
 - [tslearn: A Python machine learning toolkit for time series](https://github.com/tslearn-team/tslearn) {% cite tslearn %}
   - Créateur et principal contributeur, depuis 2017
@@ -173,26 +206,58 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
   - 20+ contributeurs (4 mainteneurs actifs, dont moi)
   - 94+% de _code coverage_, tests automatisés, documentation exhaustive
   - 1 400+ étoiles sur GitHub incluant des utilisateurs issus du _machine learning_, de la finance, de l'astronomie, _etc._
+  - Licence _BSD 2-Clause "Simplified" License_
 - [POT : Python Optimal Transport](https://github.com/PythonOT/POT)
   - Contributeur occasionnel
 
-### Publications
+#### Jeu de données
+
+- [Ushant AIS dataset](https://figshare.com/articles/dataset/Ushant_AIS_dataset/8966273)
+  - Jeu de données de trajectoires AIS enregistrées dans le rail d'Ouessant
+  - 18 603 trajectoires, 7 millions de positions de bateaux
+  - Licence CC BY 4.0
+
+#### Articles
 
 | Type   | Nombre d'articles acceptés |
 |--------|----------------------------|
-| Journaux internationaux | 9 |
-| Conférences internationales | 20 |
+| Journaux internationaux avec comité de relecture | 9 |
+| Conférences internationales avec comité de relecture | 20 |
 | Actes co-édités | 2 |
 
-#### Journaux internationaux
+##### Sélection de 5 articles-clés
+
+- {% cite tslearn %}
+  - Article de présentation de la librairie `tslearn`
+  - Publié dans la revue JMLR (revue de référence en _machine learning_)
+  - [[PDF](https://jmlr.org/papers/volume21/20-091/20-091.pdf)]
+- {% cite vayer19a %}
+  - Définition d'une métrique entre graphes pour des applications d'apprentissage
+  - Publié dans la conférence ICML (conférence de référence en _machine learning_, [classée A*](http://portal.core.edu.au/conf-ranks/1121/))
+  - [[PDF](http://proceedings.mlr.press/v97/titouan19a/titouan19a.pdf)]
+- {% cite vayer19b %}
+  - Proposition d'un algorithme de calcul exact de la distance de Gromov-Wasserstein dans le cas 1d (algorithme en $$O(n \log n)$$ contre $$O(n^3)$$ pour les algorithmes de résolution approchée existant dans le cas multidimensionnel)
+  - Utilisation de cet algorithme pour la définition d'une distance _sliced_ et application en apprentissage
+  - Publié dans la conférence NeurIPS (conférence de référence en _machine learning_, [classée A*](http://portal.core.edu.au/conf-ranks/98/))
+  - [[PDF](https://proceedings.neurips.cc/paper/2019/file/a9cc6694dc40736d7a2ec018ea566113-Paper.pdf)]
+- {% cite tavenard:halshs-01339007 %}
+  - Proposition d'un algorithme de classification précoce de séries temporelles
+  - Publié dans la conférence ECML/PKDD (conférence européenne de référence en _machine learning_, [classée A](http://portal.core.edu.au/conf-ranks/491/))
+  - [[PDF](https://halshs.archives-ouvertes.fr/halshs-01339007/document)]
+- {% cite zhang:hal-01470554 %}
+  - Proposition d'un algorithme de programmation dynamique pour la résolution exacte d'un problème de Dynamic Time Warping sous contrainte de longueur de chemin
+  - Publié dans le journal Information Sciences ([classé A](http://portal.core.edu.au/jnl-ranks/680/))
+  - [[PDF](https://hal.archives-ouvertes.fr/hal-01470554/document)]
+
+##### Journaux internationaux
 
 {% bibliography -q @article %}
 
-#### Conférences et ateliers internationaux
+##### Conférences et ateliers internationaux
 
 {% bibliography -q @inproceedings %}
 
-#### Actes co-édités
+##### Actes co-édités
 
 {% bibliography -q @proceedings %}
 

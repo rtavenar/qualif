@@ -14,11 +14,11 @@
     {% if entry.doi %}
     <span>[<a href="{{ entry.doi | prepend: 'http://doi.org/' }}">DOI</a>]</span>
     {% endif %}
-    {% if entry.hal_id %}
-    <span>[<a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">HAL</a>]</span>
-    {% endif %}
     {% if entry.url %}
     <span>[<a href="{{ entry.url }}">URL</a>]</span>
+    {% endif %}
+    {% if entry.hal_id %}
+    <span>[<a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">HAL</a>]</span>
     {% endif %}
 </div>
 
