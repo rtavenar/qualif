@@ -68,7 +68,7 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 
 ## Distinctions
 
-- Prime d'Encadrement Doctoral et de Recherche (2017 - 2021) **justificatif TODO scan UR2**
+- Prime d'Encadrement Doctoral et de Recherche (2017 - 2021) [[justificatif](assets/scans/pedr.pdf)]
 - Prix du meilleur poster à IDA'17 pour le papier "Learning DTW-Preserving Shapelets" (2017) [[justificatif](assets/scans/best_poster_ida17.jpg)]
 - Papier sélectionné en couverture d'une _issue_ de journal : "Fused Gromov-Wasserstein Distance for Structured Objects" (2020) [[justificatif](assets/scans/algorithms_cover_2020.pdf)]
 - Sélectionné parmi les meilleurs reviewers (top-10%) pour la conférence NeurIPS 2020 [[justificatif](assets/scans/top_reviewer_neurips_2020.pdf)]
@@ -91,7 +91,7 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 | Statut | Établissement d'exercice | Nombre total d'heures |
 |--------|--------------------------|-----------------------|
 | MCF | Université de Rennes 2 | xxx |
-| Vacataire | EDHEC, Lille | xxx |
+| Vacataire | EDHEC, Lille | 40 (en 2 années) |
 | Moniteur | ENS Cachan, Antenne de Bretagne -- Université de Rennes 1 | xxx |
 | Vacataire | Université de Rennes 1 | xxx |
 
@@ -100,9 +100,10 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 
 | Année d'exercice | Établissement d'exercice | Public & niveau | Nom de la matière | Détails | Volume horaire total (heTD) | Nature | Responsabilités | Supports d'enseignement |
 |--------|------------------|--------------------------|-----------------|-------------------|--------|--------------------------------------------------|--------|-----------------|-------------------------|
-| 2020-2021 | Université de Rennes 2 | L2 MIASHS | Structures de données avancées en Python | Programmation en Python : collections, récupération et manipulation de résultats issus de requêtes REST | 42 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Polycopié (Jupyter Book)](https://rtavenar.github.io/poly_python/content/intro.html)] [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=8373)] |
-| 2020-2021 | Université de Rennes 2 | M1 MAS | Bases de données avancées | Interrogation de bases NoSQL : `mongodb` | 24 | CM, TP | Création du module, des supports, des évaluations | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=9001)] |
-| 2020-2021 | Université de Rennes 2 | M2 MAS | Apprentissage 2 | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences) | 16 | CM, TP | Création du module, des supports, des évaluations | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=11352)] |
+| 2020 | Université de Rennes 2 | L2 MIASHS | Structures de données avancées en Python | Programmation en Python : collections, récupération et manipulation de résultats issus de requêtes REST | 42 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Polycopié (Jupyter Book)](https://rtavenar.github.io/poly_python/content/intro.html)] [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=8373)] |
+| 2020 | Université de Rennes 2 | M1 MAS | Bases de données avancées | Interrogation de bases NoSQL : `mongodb` | 24 | CM, TP | Création du module, des supports, des évaluations | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=9001)] |
+| 2020 | Université de Rennes 2 | M2 MAS | Apprentissage statistique 2 | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences) | 16 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=11352)] |
+| 2019 et 2020 | EDHEC | Master 2 | Deep learning | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences, modèles génératifs) | (2x)20 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Page du cours](https://rtavenar.github.io/teaching/deep_edhec/)] |
 |--------|------------------|--------------------------|-----------------|-------------------|--------------------------------------------------|--------|-----------------|-------------------------|
 
 
@@ -120,22 +121,36 @@ Notes :
   * Structures de données avancées en Python (UR2, automne 2020) : cours en présentiel puis 100% distanciel (mix synchrone-asynchrone), cours en vidéo + sessions de questions-réponses sur zoom (classe inversée) + qcm d'auto-évaluation, travaux pratiques sur zoom (+ corrigés détaillés pour les étudiants moins bien pourvus en connexion internet)
 * **TODO: ne pas oublier formation continue**
 
+* Justificatifs
+  * EDHEC [[2019](assets/scans/edhec2019.pdf)] [[2020](assets/scans/edhec2020.pdf)]
+  * UR2 [[2018](assets/scans/service2018.pdf)]
+
 ## Recherche
 
-### Service à la communauté
+### Relecture
 
-- Relecteur (sélection)
-  - Appels à projet: AAPG ANR (France) [[justificatif](assets/scans/anr_multiseek.pdf)], NWO KLEIN (Pays-Bas) [[justificatif](assets/scans/klein_nwo.pdf)]
-  - Revues internationales: DAMI [[justificatif](assets/scans/dami_review.pdf)], Machine Learning (Springer) [[justificatif](assets/scans/mac_review.pdf)], TGRS (IEEE) [[justificatif](assets/scans/tgrs_review.pdf)], TPAMI (IEEE) [[justificatif](assets/scans/tpami_review.pdf)], JMLR [[justificatif](assets/scans/jmlr_review.pdf)]
-  - Conférences internationales : NeurIPS ([top-10% reviewer en 2020](assets/scans/top_reviewer_neurips_2020.pdf)), AISTATS [[justificatif](assets/scans/aistats_review.pdf)], IJCAI [[justificatif](assets/scans/cmt_ijcai_review.pdf)], ECML/PKDD [[justificatif](assets/scans/ecml_review.pdf)]
-- Membre d'un jury de thèse
-  - Vera Shalaeva (Examinateur) [[justificatif](http://www.theses.fr/2018GREAM069)]
+J'ai été _reviewer_ pour :
+
+- Appels à projet: AAPG ANR (France) [[justificatif](assets/scans/anr_multiseek.pdf)], NWO KLEIN (Pays-Bas) [[justificatif](assets/scans/klein_nwo.pdf)]
+- Revues internationales: DAMI [[justificatif](assets/scans/dami_review.pdf)], Machine Learning (Springer) [[justificatif](assets/scans/mac_review.pdf)], TGRS (IEEE) [[justificatif](assets/scans/tgrs_review.pdf)], TPAMI (IEEE) [[justificatif](assets/scans/tpami_review.pdf)], JMLR [[justificatif](assets/scans/jmlr_review.pdf)]
+- Conférences internationales : NeurIPS ([top-10% reviewer en 2020](assets/scans/top_reviewer_neurips_2020.pdf)), AISTATS [[justificatif](assets/scans/aistats_review.pdf)], IJCAI [[justificatif](assets/scans/cmt_ijcai_review.pdf)], ECML/PKDD [[justificatif](assets/scans/ecml_review.pdf)]
+
+### Organisation de colloques
+
 - Co-organisateur d'un atelier (AALTD, [[2016](https://aaltd16.irisa.fr/people/), [2018](https://project.inria.fr/aaldt18/people/), [2019](https://project.inria.fr/aaltd19/people/), [2020](https://project.inria.fr/aaltd20/people/)])
   - Atelier (_workshop_) satellite à la conférence ECML-PKDD
   - Organisation d'un challenge de classification dans le cadre du _workshop_ (2016, 22 participants) [[justificatif](https://aaltd16.irisa.fr/challenge/)]
   - Co-éditeur d'actes post-atelier dans LNCS [[justificatif](https://www.springer.com/fr/book/9783030390976)]
 - Animateur de session (_session chair_) lors de la conférence ECML-PKDD 2019 [[justificatif](https://ecmlpkdd2019.org/programme/timetable/), jeudi 19/9, 16h20-18h, Session _Deep Learning 3_]
 - Co-organisateur d'une session thématique "Deep Learning for Satellite Time Series", Conférence ISPRS 2020 [[justificatif](https://dl4sits.github.io/isprs2020/session/)]
+
+### Jury de thèse, comité de sélection
+
+- Thèse de Vera Shalaeva (2018, thèse de doctorat en informatique, examinateur)
+  - [[justificatif](http://www.theses.fr/2018GREAM069)]
+- Président du comité de sélection (section 27) pour un poste MCF à l'Université de Rennes 2 (2019)
+  - [[justificatif](assets/scans/cos2019.pdf)]
+
 
 ### Encadrement
 
