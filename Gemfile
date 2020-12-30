@@ -6,4 +6,4 @@ gemspec
 
 gem 'jekyll', '~> 4.0'
 
-gem 'jekyll-scholar', group: :jekyll_plugins
+gem 'jekyll-scholar', '~> 6.8.0', group: :jekyll_plugins
