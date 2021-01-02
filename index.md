@@ -233,6 +233,7 @@ J'ai été _reviewer_ pour :
   - 10 000+ lignes de code Python/Cython
   - 20+ contributeurs (4 mainteneurs actifs, dont moi)
   - 94+% de _code coverage_, tests automatisés, documentation exhaustive
+  - [700k+ téléchargements](https://pepy.tech/project/tslearn)
   - 1 400+ étoiles sur GitHub incluant des utilisateurs issus du _machine learning_, de la finance, de l'astronomie, _etc._
   - Licence _BSD 2-Clause "Simplified" License_
 - [POT : Python Optimal Transport](https://github.com/PythonOT/POT)
