@@ -222,7 +222,19 @@ J'ai été _reviewer_ pour :
 
 ### Thématiques de recherche
 
-**TODO : texte synthétique présentant mes thématiques de recherche (avec du gras pour mettre en avant les mots-clés)**
+Mes recherches portent sur l'**apprentissage automatique appliqué aux données structurées**.
+
+Dans ce cadre, je me suis tout particulièrement intéressé aux **séries temporelles**, pour lesquelles nous avons développé des modèles de classification en apportant un soin particulier à la représentation de l'information temporelle {% cite tavenard:halshs-01561461 guilleme:hal-02513295 %}.
+J'ai également étudié le problème de la classification précoce de séries temporelles, qui consiste à proposer une prédiction pour une série temporelle avant même de l'avoir totalement observée {% cite tavenard:halshs-01339007 ruwurm:hal-02174314 %}.
+Dans ces travaux sur les séries temporelles, j'ai notamment porté un intérêt particulier pour les méthodes d'alignement dynamiques (qui utilisent des algorithmes de programmation dynamique pour mettre en relation le observations de paires de séries temporelles) ; qu'il s'agisse de proposer un nouvel algorithme de résolution pour une formulation contrainte du problème d'alignement {% cite zhang:hal-01470554 %} ou d'utiliser concrètement ces algorithmes pour des tâches applicatives, comme l'analyse de l'évolution des concentrations en polluants dans les cours d'eau lors des crues {% cite dupas:halshs-01228397 %}.
+Ces travaux m'ont amené à créer une librairie python d'apprentissage à partir de séries temporelles  (`tslearn`) qui rencontre un franc succès auprès de chercheurs de ma communauté et de domaines applicatifs {% cite tslearn %}.
+
+Plus récemment, je me suis également tourné vers les données représentées sous forme de **graphes**.
+Là aussi, l'idée est de prendre en compte la structure de ces données dans le modèle.
+Nos travaux dans ce domaine reposent sur la définition d'une distance de transport optimal entre graphes, nommée _Fused Gromov-Wassersein_ {% cite vayer19a vayer:hal-02174316 %}.
+Nous avons également proposé un algorithme de résolution d'un problème connexe (le problème de Gromov-Wasserstein) dans le cas de données monodimensionnelles {% cite vayer19b %}.
+
+Mes travaux mêlent aspects formels (proposition d'algorithmes, définition de distances, _etc._) et applicatifs (impliquant notamment des collaborations avec des géographes et des hydrologues).
 
 ### Publications
 
@@ -233,7 +245,7 @@ J'ai été _reviewer_ pour :
   - 10 000+ lignes de code Python/Cython
   - 20+ contributeurs (4 mainteneurs actifs, dont moi)
   - 94+% de _code coverage_, tests automatisés, documentation exhaustive
-  - [700k+ téléchargements](https://pepy.tech/project/tslearn)
+  - [800k+ téléchargements](https://pepy.tech/project/tslearn)
   - 1 400+ étoiles sur GitHub incluant des utilisateurs issus du _machine learning_, de la finance, de l'astronomie, _etc._
   - Licence _BSD 2-Clause "Simplified" License_
 - [POT : Python Optimal Transport](https://github.com/PythonOT/POT)
