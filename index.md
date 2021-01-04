@@ -198,8 +198,6 @@ J'ai été _reviewer_ pour :
 
 ### Participation à des projets de recherche
 
-**TODO : demander justificatif à Sébastien pour projets Obelix + membre associé**
-
 - Apprentissage Statistique pour les Séries Temporelles Environnementales (MATS, 2019 - 2023)
   - Agence Nationale de la Recherche - Jeunes Chercheuses et Jeunes Chercheurs (JCJC)
   - Porteur du projet
