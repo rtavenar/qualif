@@ -23,9 +23,8 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 - Maître de Conférences, Université de Rennes 2 (Rennes, France), depuis 2013
   - UMR Laboratoire Littoral, Environnement, Télédétection, Géomatique (LETG)
   - Département Informatique et Statistiques (MIASHS)
-  - Membre élu au Conseil de l'UFR Sciences Sociales depuis 2018
-  - Membre associé de l'équipe Obelix de l'UMR IRISA
-  - Justificatifs : **TODO (UR2 + membre associé)**
+  - Membre élu au Conseil de l'UFR Sciences Sociales depuis 2018 **TODO justificatif**
+  - Membre associé de l'équipe Obelix de l'UMR IRISA [[justificatif](assets/scans/attestation_lefevre_obelix.pdf)]
 - Chercheur post-doctoral, Idiap Research Institute (Martigny, Suisse, 2011 - 2013)
   - Équipe _Perception_, dirigée par Dr. Jean-Marc Odobez
   - Bourse du _Swiss National Science Foundation (SNSF)_
@@ -154,8 +153,6 @@ J'ai été _reviewer_ pour :
 
 ### Encadrement
 
-**TODO: justificatifs M2 et post-doc (avec justificatif SESAME?)**
-
 | Niveau | Nombre de co-encadrements |
 |--------|---------------|---|---|
 | Post-doctorat | 1 |
@@ -166,7 +163,7 @@ J'ai été _reviewer_ pour :
 - Post-doctorant
   - Pierre Gloaguen (2017 - 2019)
     - Détection d'anomalies dans des données de trajectoires (_topic models_ ; modélisation en temps continu ; inférence variationnelle)
-    - co-encadré avec Prof. Chloé Friguet &amp; Prof. Laetitia Chapel
+    - co-encadré avec Prof. Chloé Friguet &amp; Prof. Laetitia Chapel [[justificatif](assets/scans/attestation_lefevre_obelix.pdf)]
 - Doctorants (encadrements en cours)
   - François Painblanc (depuis 2020)
     - Classification précoce de séries temporelles (modèles génératifs ; apprentissage semi-supervisé)
@@ -210,15 +207,15 @@ J'ai été _reviewer_ pour :
 - Apprentissage statistique avec transport optimal (OATMIL, 2017 - 2021)
   - Agence Nationale de la Recherche - Projet de Recherche Collaborative (PRC)
   - Collaborateur
-  - **TODO justificatif**
+  - [[justificatif](assets/scans/attestation_lefevre_obelix.pdf)]
 - geStion et Exploitation des flux de Données SAtellitaires AIS & Sentinel pour la surveillance du trafic MaritimE (SESAME, 2017 - 2020)
   - Agence Nationale de la Recherche - Appel ASTRID financé par la Direction Générale de l'Armement
   - Responsable d'un Work-Package, responsable du partenaire IRISA-Obelix
-  - **TODO justificatif**
+  - [[justificatif](assets/scans/attestation_lefevre_obelix.pdf)]
 - Analyse Spatio-temporelle pour la Télédétection de l’Environnement par Reconnaissance dans les Images compleXes (ASTERIX, 2013 - 2017)
   - Agence Nationale de la Recherche - Jeunes Chercheuses et Jeunes Chercheurs (JCJC)
   - Collaborateur
-  - **TODO justificatif**
+  - [[justificatif](assets/scans/attestation_lefevre_obelix.pdf)]
 
 ### Thématiques de recherche
 
