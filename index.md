@@ -25,6 +25,7 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
   - Département Informatique et Statistiques (MIASHS)
   - Membre élu au Conseil de l'UFR Sciences Sociales depuis 2018 **TODO justificatif**
   - Membre associé de l'équipe Obelix de l'UMR IRISA [[justificatif](assets/scans/attestation_lefevre_obelix.pdf)]
+  - Temps partiel (80%) depuis l'année 2018-2019
 - Chercheur post-doctoral, Idiap Research Institute (Martigny, Suisse, 2011 - 2013)
   - Équipe _Perception_, dirigée par Dr. Jean-Marc Odobez
   - Bourse du _Swiss National Science Foundation (SNSF)_
@@ -85,32 +86,65 @@ Dossier de qualification aux fonctions de professeur des universités, section 2
 
 ### Cours
 
+Cette section présente une synthèse des heures d'enseignement que j'ai effectué depuis mon recrutement en tant que Maître de Conférences (section 27) à l'Université de Rennes 2, en 2013.
+Le premier semestre 2020-2021 n'est pas mentionné, car je ne dispose pas encore de justificatif pour celui-ci, mais j'ai bien effectué un nombre d'heures comparable aux années précédentes.
+Avant cela, j'avais été durant ma thèse moniteur au département Informatique et Télécommunications de l'antenne de Rennes de l'ENS Cachan.
+
 #### Synthèse du nombre d'heures
 
 | Statut | Établissement d'exercice | Nombre total d'heures |
 |--------|--------------------------|-----------------------|
-| MCF | Université de Rennes 2 | xxx |
+| MCF | Université de Rennes 2 | 2100 (en 7 années) |
 | Vacataire | EDHEC, Lille | 40 (en 2 années) |
-| Moniteur | ENS Cachan, Antenne de Bretagne -- Université de Rennes 1 | xxx |
-| Vacataire | Université de Rennes 1 | xxx |
 
 
-#### Liste exhaustive des cours
+#### Liste des cours des 5 dernières années
+
+##### En Licence Mathématiques et Informatiques Appliquées aux Sciences Humaines et Sociales (MIASHS)
 
 | Année d'exercice | Établissement d'exercice | Public & niveau | Nom de la matière | Détails | Volume horaire total (heTD) | Nature | Responsabilités | Supports d'enseignement |
 |--------|------------------|--------------------------|-----------------|-------------------|--------|--------------------------------------------------|--------|-----------------|-------------------------|
-| 2020 | Université de Rennes 2 | L2 MIASHS | Structures de données avancées en Python | Programmation en Python : collections, récupération et manipulation de résultats issus de requêtes REST | 42 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Polycopié (Jupyter Book)](https://rtavenar.github.io/poly_python/content/intro.html)] [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=8373)] |
-| 2020 | Université de Rennes 2 | M1 MAS | Bases de données avancées | Interrogation de bases NoSQL : `mongodb` | 24 | CM, TP | Création du module, des supports, des évaluations | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=9001)] |
-| 2020 | Université de Rennes 2 | M2 MAS | Apprentissage statistique 2 | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences) | 16 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=11352)] |
-| 2019 et 2020 | EDHEC | Master 2 | Deep learning | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences, modèles génératifs) | (2x)20 | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Page du cours](https://rtavenar.github.io/teaching/deep_edhec/)] |
+| 2017 à 2019 | UR2 | L1 MIASHS | Informatique (initiation) | Bureautique, web et algorithmique | 68 (en 3 années) | CM, TP |  |  |
+| 2017 à 2019 | Université de Rennes 2 | L2 MIASHS | Structures de données avancées en Python | Programmation en Python : collections, récupération et manipulation de résultats issus de requêtes REST | 123 (en 3 années) | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Polycopié (Jupyter Book)](https://rtavenar.github.io/poly_python/content/intro.html)] [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=8373)] |
+| 2018 et 2020 | UR2 | L3 MIASHS | Travaux Encadrés de Recherche (TER) | Projets en groupes autour de notions liées indirectement aux contenus des cours | 9 | Projet | Proposition des sujets, suivi des projets |  |
+|--------|------------------|--------------------------|-----------------|-------------------|--------------------------------------------------|--------|-----------------|-------------------------|
+
+##### En Master Mathématiques Appliquées, Statistiques (MAS)
+
+| Année d'exercice | Établissement d'exercice | Public & niveau | Nom de la matière | Détails | Volume horaire total (heTD) | Nature | Responsabilités | Supports d'enseignement |
+|--------|------------------|--------------------------|-----------------|-------------------|--------|--------------------------------------------------|--------|-----------------|-------------------------|
+| 2017 à 2020 | Université de Rennes 2 | M1 MAS | Bases de données avancées | Interrogation de bases NoSQL : `mongodb` | 120 (en 4 années) | CM, TP | Création du module, des supports, des évaluations | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=9001)] |
+| 2017 à 2019 | Université de Rennes 2 | M2 MAS | Apprentissage statistique 2 | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences) | 60 (en 3 années) | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Moodle](https://cursus.univ-rennes2.fr/course/view.php?id=11352)] |
+| 2017 à 2019 | UR2 | M2 MAS | Analyse de données massives | Fouille de graphes, fouille de textes | 26 (en 3 années) | CM, TP | Création du module, des supports, des évaluations (en binôme avec un collègue) |  |
+| 2016 à 2020 | UR2 | M2 MAS | Supervision d'étudiants en stage en entreprise |  |  94 (en 5 années) |  | Suivi des stages, évaluation des rapports et soutenances |  |
+| 2017 à 2019 | UR2 | M2 MAS | Projet Sciences des données | Projets de type `kaggle` | 46 (en 3 années) | Projet | Suivi des groupes pendant la compétition, évaluation académique (soutenance + rapport) |  |
+|--------|------------------|--------------------------|-----------------|-------------------|--------------------------------------------------|--------|-----------------|-------------------------|
+
+##### En formation continue
+
+| Année d'exercice | Établissement d'exercice | Public & niveau | Nom de la matière | Détails | Volume horaire total (heTD) | Nature | Responsabilités | Supports d'enseignement |
+|--------|------------------|--------------------------|-----------------|-------------------|--------|--------------------------------------------------|--------|-----------------|-------------------------|
+| 2018 | CNRS Formations | Formation continue | Machine Learning | Introduction à l'apprentissage automatique, application en python | 12 | CM, TP | Montage du cours, supports de cours et TP (en binôme) | |
+| 2018 | UR2 (Service de Formation Continue) | Ingénieurs de l'entreprise ACSystème | Machine Learning | Introduction à l'apprentissage automatique et au deep learning, application en python | 28 | CM, TP | Montage du cours, supports de cours et TP | |
+|--------|------------------|--------------------------|-----------------|-------------------|--------------------------------------------------|--------|-----------------|-------------------------|
+
+##### Divers
+
+| Année d'exercice | Établissement d'exercice | Public & niveau | Nom de la matière | Détails | Volume horaire total (heTD) | Nature | Responsabilités | Supports d'enseignement |
+|--------|------------------|--------------------------|-----------------|-------------------|--------|--------------------------------------------------|--------|-----------------|-------------------------|
+| 2019 et 2020 | EDHEC | Master 2 | Deep learning | Deep learning : principes de base et modèles standard (données tabulaires, images, séquences, modèles génératifs) | 40 (en 2 années) | CM, TP | Création du module, des supports, des évaluations (dont projet) | [[Page du cours](https://rtavenar.github.io/teaching/deep_edhec/)] |
+| 2015 à 2018 | UR2 | Toutes licences 1 | Méthodologie informatique | Bureautique | 128 (en 4 années) | CM, TP |  |  |
+| 2016 à 2017 | UR2 | Toutes licences 2 | Complément de formation C2i1 | Bureautique, preparation à la certification C2i1 | 71 (en 2 années) | CM, TP |  |  |
+| 2017 | UR2 | L3 MIASHS | POO en Python | Introduction à la programmation orientée objet | 6 | TP |  |  |
+| 2017 | UR2 | M2 Arts du spectacle | Conception de sites web | Bases de HTML / CSS, utilisation d'un CMS | 24 | CM, TP | Création des supports |  |
+| 2017 | UR2 | L3 LEA | Informatique | Bases de HTML / CSS, utilisation d'un CMS | 29 | TP |  |  |
+| 2016 à 2017 | UR2 | M1 Géographie | Bases de données | Interrogation de bases de données SQL | 90 (en 2 années) | CM, TD | Création des supports, des évaluations |  |
 |--------|------------------|--------------------------|-----------------|-------------------|--------------------------------------------------|--------|-----------------|-------------------------|
 
 
-**TODO : finir la liste exhaustive**
+##### Notes
 
-Notes :
-
-* Moodle : les espaces-cours sont accessibles avec une clé d'auto-inscription indiquée dans la description du cours sur moodle (pour les cours du second semestre, il se peut qu'une partie non négligeable des éléments du cours soit cachée au moment de l'évaluation de ce dossier)
+* Moodle : pour les cours dont je suis encore aujourd'hui responsable, les espaces-cours sont accessibles avec une clé d'auto-inscription indiquée dans la description du cours sur moodle (pour les cours du second semestre, il se peut qu'une partie non négligeable des éléments du cours soit cachée au moment de l'évaluation de ce dossier)
 * L'ensemble des cours dispensés à l'Université de Rennes 2 l'ont été en tant que maître de conférences, les cours dispensés à l'EDHEC (école de commerce) l'ont été en tant que vacataire ; de plus, durant ma thèse, j'ai été vacataire à l'Université de Rennes 1 et moniteur à l'ENS de Cachan (antenne de Bretagne)
 * Enseignements en anglais : le module _deep learning_ (EDHEC) a été dispensé en langue anglaise
 * Distanciel : en raison des contraintes sanitaires, les modules _deep learning_ (EDHEC), _apprentissage 2_ (UR2), Structures de données avancées en Python (UR2), dont j'ai la responsabilité, ont été dispensés à distance dans les conditions suivantes :
@@ -118,11 +152,10 @@ Notes :
   * Bases de données avancées (UR2, printemps 2020) : cours 100% distanciel synchrone, cours en visio (type zoom), travaux pratiques sur Google Colab (notebook hébergé en ligne)
   * _Apprentissage 2_ (UR2, automne 2020) : cours 100% distanciel synchrone, cours en visio (type zoom), travaux pratiques sur Deepnote (notebook hébergé en ligne)
   * Structures de données avancées en Python (UR2, automne 2020) : cours en présentiel puis 100% distanciel (mix synchrone-asynchrone), cours en vidéo + sessions de questions-réponses sur zoom (classe inversée) + qcm d'auto-évaluation, travaux pratiques sur zoom (+ corrigés détaillés pour les étudiants moins bien pourvus en connexion internet)
-* **TODO: ne pas oublier formation continue**
-
 * Justificatifs
   * EDHEC [[2019](assets/scans/edhec2019.pdf)] [[2020](assets/scans/edhec2020.pdf)]
-  * UR2 [[2018](assets/scans/service2018.pdf)]
+  * UR2 [[2013](assets/scans/service_2013-2014.pdf)] [[2014](assets/scans/service_2014-2015.pdf)] [[2015](assets/scans/service_2015-2016.pdf)] [[2016](assets/scans/service_2016-2017.pdf)] [[2017](assets/scans/service_2017-2018.pdf)] [[2018](assets/scans/service_2018-2019.pdf)] [[2019](assets/scans/service_2019-2020.pdf)]
+  * Formation continue [[CNRS Formation](assets/scans/autorisation_cumul_cnrs_formation.pdf)] [[Formation Continue UR2](assets/scans/programme_formation_acsysteme.pdf)]
 
 ## Recherche
 
